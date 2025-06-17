@@ -14,6 +14,6 @@
 ### 🛠️ Languages and Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel](https://www.google.com/imgres?q=laravel%20logo&imgurl=https%3A%2F%2Flogowik.com%2Fcontent%2Fuploads%2Fimages%2Flaravel8530.jpg&imgrefurl=https%3A%2F%2Flogowik.com%2Flaravel-logo-vector-svg-pdf-ai-eps-cdr-free-download-1-12077.html&docid=KUn3mxzus7lwhM&tbnid=mvsikVh14AUBGM&vet=12ahUKEwi_nLvhl_mNAxXJLPsDHfbiDNgQM3oECBkQAA..i&w=866&h=650&hcb=2&ved=2ahUKEwi_nLvhl_mNAxXJLPsDHfbiDNgQM3oECBkQAA)" width="40" height="40"/>
+  <img src="https://download.logo.wine/logo/Laravel/Laravel-Logo.wine.png" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
