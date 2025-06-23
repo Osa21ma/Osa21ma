@@ -7,7 +7,7 @@
 - 🛠️ Experienced with **Databases & SQL**
 - 🔭 I’m currently working on improving my **API & performance optimization** skills
 - 🌱 Always learning new backend technologies and best practices
-- 📫 How to reach me: **your_email@example.com**
+- 📫 How to reach me: **Osama.abdelfattah21@gmail.com**
 
 ---
 
